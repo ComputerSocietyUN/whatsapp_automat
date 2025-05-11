@@ -9,23 +9,24 @@
   <tbody>
     <tr>
       <td rowspan="2">L1 Name</td>
-      <td colspan="2">L2 Name A</td>
+      <td>L2 Name A</td>
       <td>L3 Name A</td>
     </tr>
     <tr>
       <td>L3 Name B</td>
+      <td></td> <!-- Celda vacía para alinear correctamente -->
     </tr>
     <tr>
-      <td rowspan="2">L2 Name B</td>
+      <td>L2 Name B</td>
       <td>L3 Name C</td>
       <td>L3 Name D</td>
     </tr>
     <tr>
+      <td></td> <!-- Celda vacía para alinear correctamente -->
       <td colspan="2">L3 Name E</td>
     </tr>
   </tbody>
 </table>
-
 
 # WhatsApp Message Sender
 
