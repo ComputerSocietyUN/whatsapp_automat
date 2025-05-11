@@ -1,32 +1,4 @@
-<table>
-  <thead>
-    <tr>
-      <th>Layer1</th>
-      <th>Layer2</th>
-      <th>Layer3</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="2">L1 Name</td>
-      <td>L2 Name A</td>
-      <td>L3 Name A</td>
-    </tr>
-    <tr>
-      <td>L3 Name B</td>
-      <td></td> <!-- Celda vacía para alinear correctamente -->
-    </tr>
-    <tr>
-      <td>L2 Name B</td>
-      <td>L3 Name C</td>
-      <td>L3 Name D</td>
-    </tr>
-    <tr>
-      <td></td> <!-- Celda vacía para alinear correctamente -->
-      <td colspan="2">L3 Name E</td>
-    </tr>
-  </tbody>
-</table>
+$$\sqrt{2}$$
 
 # WhatsApp Message Sender
 
