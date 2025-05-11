@@ -13,20 +13,22 @@ tags:
   - tag1
   - tag2
 ---
-"Page Title"
-"Page sub-title"
-"Author name"
-"This is a test"
-"MU"
-"20/02/2020"
-"YAML"
-
+---
+title: "Page Title"
+subtitle: "Page sub-title"
+author: "Author name"
+description: "This is a test"
+institute: "MU"
+date: "20/02/2020"
+abstract: "YAML"
+keywords: 
   - key1
   - key2
-
+tags:
   - tag1
   - tag2
 ---
+
 # WhatsApp Message Sender
 
 Un script de Python que automatiza el envío de mensajes a través de WhatsApp Web utilizando Selenium.
