@@ -13,17 +13,17 @@ tags:
   - tag1
   - tag2
 ---
-title: "Page Title"
-subtitle: "Page sub-title"
-author: "Author name"
-description: "This is a test"
-institute: "MU"
-date: "20/02/2020"
-abstract: "YAML"
-keywords: 
+"Page Title"
+"Page sub-title"
+"Author name"
+"This is a test"
+"MU"
+"20/02/2020"
+"YAML"
+
   - key1
   - key2
-tags:
+
   - tag1
   - tag2
 ---
