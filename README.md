@@ -1,14 +1,3 @@
-[cols="^,^,^"]
-|===
-|Layer1 |Layer2 |Layer3
-
-.4+.^|L1 Name .2+.^|L2 Name A |L3 Name A
-|L3 Name B
-.2+.^|L2 Name B |L3 Name C
-|L3 Name D
-|===
-
-
 # WhatsApp Message Sender
 
 Un script de Python que automatiza el envío de mensajes a través de WhatsApp Web utilizando Selenium.
