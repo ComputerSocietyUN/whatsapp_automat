@@ -1,3 +1,12 @@
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
+
 # WhatsApp Message Sender
 
 Un script de Python que automatiza el envío de mensajes a través de WhatsApp Web utilizando Selenium.
