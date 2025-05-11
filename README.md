@@ -1,11 +1,13 @@
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
+[cols="^,^,^"]
+|===
+|Layer1 |Layer2 |Layer3
 
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
+.4+.^|L1 Name .2+.^|L2 Name A |L3 Name A
+|L3 Name B
+.2+.^|L2 Name B |L3 Name C
+|L3 Name D
+|===
+
 
 # WhatsApp Message Sender
 
