@@ -152,7 +152,10 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 - WhatsApp Web
 - La comunidad de Python
 - Todos los contribuidores
-
+| Nombre       | Edad     | Ciudad  |
+|--------------|----------|---------|
+| Juan, Ana    | 25, 30   | Bogotá  |
+| Luis         | 28       | Medellín|
 ---
 
 Hecho con ❤️ por Computer Society
